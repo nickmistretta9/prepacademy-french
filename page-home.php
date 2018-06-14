@@ -18,19 +18,19 @@ Template Name: Home Page
 	<div class="container-fluid">
 		<div class="flex">
 			<div class="cta-box">
-				<p class="title">Pourquoi Les Tuteurs de Prep Academy?</p>
+				<p class="title" data-mh>Pourquoi Les Tuteurs de Prep Academy?</p>
 				<div class="cta-action">
 					<a href="<?php echo home_url('/comment-nous-travaillons'); ?>">Comment Nous Travaillons</a>
 				</div>
 			</div>
 			<div class="cta-box">
-				<p class="title">Des Enseignants Certifiés et Assermentés</p>
+				<p class="title" data-mh>Des Enseignants Certifiés et Assermentés</p>
 				<div class="cta-action">
 					<a href="<?php echo home_url('/notre-philosophie-d-education'); ?>">Notre Philosophie d Education</a>
 				</div>
 			</div>
 			<div class="cta-box">
-				<p class="title">Obtenez le Tutorat Dont Vos Élèves Ont Besoins</p>
+				<p class="title" data-mh>Obtenez le Tutorat Dont Vos Élèves Ont Besoins</p>
 				<div class="cta-action">
 					<a href="<?php echo home_url('/nos-services'); ?>">Nos Services</a>
 				</div>
@@ -72,14 +72,14 @@ Template Name: Home Page
 		<div class="flex">
 			<div class="first-third">
 				<div class="sub">
-					<div class="icon-container"><img src="<?php bloginfo('template_directory'); ?>/dist/images/icon-award.png"></div>
+					<div class="icon-container"></div>
 					<div class="text">
 						<h3>Enseignants Assermentés</h3>
 						<p>Nous travaillons avec le curriculum de la classe actuelle de nos élèves.</p>
 					</div>
 				</div>
 				<div class="sub">
-					<div class="icon-container"><i class="fa fa-home"></i></div>
+					<div class="icon-container"></div>
 					<div class="text">
 						<h3>Cours Particuliers Adaptés à Domicile</h3>
 						<p>Nos tuteurs viennent à votre domicile à Montréal.</p>
@@ -91,14 +91,14 @@ Template Name: Home Page
 			</div>
 			<div class="third-third">
 				<div class="sub">
-					<div class="icon-container"><i class="fa fa-user"></i></div>
+					<div class="icon-container"></div>
 					<div class="text">
 						<h3>Une Attention Personnelle et Privée</h3>
 						<p>Cours particuliers privé pour assurer une meilleure compréhension</p>
 					</div>
 				</div>
 				<div class="sub">
-					<div class="icon-container"><i class="fa fa-graduation-cap"></i></div>
+					<div class="icon-container"></div>
 					<div class="text">
 						<h3>Renforcer la Confiance en soi de Votre Enfant</h3>
 						<p>Spécialisation sur la compréhension du curriculum et augmentation de confiance en soi dans les salles de classes.</p>
