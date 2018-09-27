@@ -63,7 +63,7 @@
 	<nav class="navbar-default">
 	    <div class="container-fluid">
 	        <div id="st-trigger-effects" class="column mobile-buttons">
-        		<div class="mobile-phone"><span>514.700.7166</span></div>
+        		<div class="mobile-phone"><span>450.915.1100</span></div>
         		<a href="tel:514-700-7166" class="call mobile-ctc"><i class="fa fa-phone"></i> Call</a>
         		<a href="mailto:info@prepacademytutors.com" class="email mobile-ctc"><i class="fa fa-envelope"></i> Email</a>
             	<button class="mobile-toggle" data-effect="st-effect-4"><i class="fa fa-bars"></i> Menu</button>
@@ -88,7 +88,7 @@
 	        	?>
 	        </div>
 	        <div class="phone">
-	        	<a href="tel:514-700-7166">514.700.7166</a>
+	        	<a href="tel:450-915-1100">450.915.1100</a>
 	        </div>
 	    </div>
 	</nav>

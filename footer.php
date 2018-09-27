@@ -24,7 +24,7 @@
 				<a href="<?php echo home_url('/'); ?>"><img src="<?php bloginfo('template_directory'); ?>/dist/images/logo.png"></a> <br>
 				<a href="http://www.prepacademytutors.com">http://www.prepacademytutors.com/</a> <br>
 				<div class="copy"><i class="fa fa-copyright"></i> All Rights Reserved. </div>
-				<a class="phone" href="tel:450-915-1196">450.915.1196</a> <br>
+				<a class="phone" href="tel:450-915-1100">450.915.1100</a> <br>
 			</div>
 			<div class="map">
 				<div class="directions">
