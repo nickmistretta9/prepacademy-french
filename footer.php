@@ -6,7 +6,7 @@
 					<a href="<?php echo home_url('/comment-nous-travaillons'); ?>">
 						<li>Comment Nous Travaillons</li>
 					</a>
-					<a href="http://prepacadtutors.wpengine.com/find-your-local-tutor">
+					<a href="//prepacademytutors.com/find-your-local-tutor">
 						<li>Autres Adresses</li>
 					</a>
 					<a href="<?php echo home_url('/blog'); ?>">
@@ -15,7 +15,7 @@
 					<a href="<?php echo home_url('/contactez-nous'); ?>">
 						<li>Contact</li>
 					</a>
-					<a href="http://franchise.prepacadtutors.wpengine.com">
+					<a href="//franchise.prepacademytutors.com">
 						<li>Franchise Opportunities</li>
 					</a>
 				</ul>

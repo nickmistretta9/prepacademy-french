@@ -51,12 +51,12 @@
 					<div class="location-info">Français</div>
 				</div>
 				<div>
-					<button class="btn-info"><a href="http://montreal.prepacadtutors.wpengine.com/">En Anglais</a></button>
+					<button class="btn-info"><a href="http://montreal.prepacademytutors.com/">En Anglais</a></button>
 				</div>
 			</div>
 		</div>
 		<div class="franchise">
-			<a href="//franchise.prepacadtutors.wpengine.com"><p>Opportunités de Franchise</p></a>
+			<a href="//franchise.prepacademytutors.com"><p>Opportunités de Franchise</p></a>
 		</div>
 	</header>
 
